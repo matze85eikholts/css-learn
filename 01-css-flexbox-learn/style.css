@@ -1,9 +1,30 @@
 .flex-container {
+  height: 300px;
+  background-color: antiquewhite;
   display: flex;
+  /*justify-content: end;*/
+  /*justify-content: start;*/
+  /*justify-content: center;*/
+  /*justify-content: space-around;*/
+  justify-content: space-between;
+  align-items: center;
 }
 .item {
   width: 100px;
   height: 100px;
   background: #254de4;
   margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.item:nth-of-type(1) {
+  align-self: start;
+}
+.item:nth-of-type(2) {
+  align-self: center;
+}
+
+.item:nth-of-type(3) {
+  align-self: end;
 }
