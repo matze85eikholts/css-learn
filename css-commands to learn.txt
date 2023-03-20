@@ -43,4 +43,7 @@ grid-row-gap
 grid-column-gap
 grid-gap
 
+To learn the flexbox css:
+https://flexboxfroggy.com/#ru
+
 
