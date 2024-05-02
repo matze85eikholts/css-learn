@@ -9,6 +9,13 @@
   justify-content: space-between;
   align-items: center;
 }
+.flex-container-2 {
+  height: 30px;
+  background-color: #254de4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .item {
   width: 100px;
   height: 100px;
