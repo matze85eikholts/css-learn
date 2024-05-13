@@ -1,0 +1,10 @@
+I am trying to learn the html basics. For that reason I have created today the folder.
+I need also find the figma-file.
+--------------------------------
+First adjustments have been made on the 14-th of may 2024.
+First of all, I learn how to connect the fonts in a separate file.
+To pumping up the knowledge is linking the css-file in html-head
+if you don't have any time just write automatically as many as possible!!!
+ 
+<link rel="stylesheet" type="text/css" href="./styles.css" />
+
