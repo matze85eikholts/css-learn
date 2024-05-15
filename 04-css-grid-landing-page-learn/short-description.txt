@@ -3,8 +3,24 @@ I need also find the figma-file.
 --------------------------------
 First adjustments have been made on the 14-th of may 2024.
 First of all, I learn how to connect the fonts in a separate file.
-To pumping up the knowledge is linking the css-file in html-head
-if you don't have any time just write automatically as many as possible!!!
- 
+-------------------------
+if you don't want to code - just write some simple examples:
+like linking the css -files in html-head
+
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
 <link rel="stylesheet" type="text/css" href="./styles.css" />
 
+-------------------------------------------------------
+just pumping up on 15-th of may 2024 
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./steles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" typr="text/css" href="./styles.css"/>
