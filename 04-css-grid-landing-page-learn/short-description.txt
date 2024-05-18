@@ -24,3 +24,25 @@ just pumping up on 15-th of may 2024
 <link rel="stylesheet" type="text/css" href="./styles.css"/>
 <link rel="stylesheet" type="text/css" href="./styles.css"/>
 <link rel="stylesheet" typr="text/css" href="./styles.css"/>
+
+--------------------------------------------------------
+pumping further:
+
+<link rel="stylesheet" type="text/css" href="../styles/style.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+
+
+-----------------------------------------------------------
+:root {
+   --color-white: #FFFFFF;
+}
+:root {
+   --color-white: #FFFFFF;
+   --color-white: #FFFFFF;
+   --color-green: #AFAFAF;
+   --color-black: #AAAAAA;
+}
+-------------------------------------------------------------
