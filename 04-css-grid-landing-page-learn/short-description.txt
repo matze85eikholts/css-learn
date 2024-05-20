@@ -10,7 +10,8 @@ like linking the css -files in html-head
 <link rel="stylesheet" type="text/css" href="./styles.css"/>
 <link rel="stylesheet" type="text/css" href="./styles.css"/>
 <link rel="stylesheet" type="text/css" href="./styles.css" />
-
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
 -------------------------------------------------------
 just pumping up on 15-th of may 2024 
 <link rel="stylesheet" type="text/css" href="./styles.css"/>
@@ -29,8 +30,11 @@ just pumping up on 15-th of may 2024
 <link rel="stylesheet" type="text/css" href="./styles.css"/>
 <link rel="stylesheet" type="text/css" href="./styles.css"/>
 <link rel="stylesheet" type="text/css" href="./styles.css"/>
-<link rel="stylesheet" type="text/css" href="./stylesheet"/>
-<link rel="stylesheet" type="text/css" href="./stylesheet"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css"/>
+
+<link rel="stylesheet" type="text/css" href="../styles.css"/>
+<link rel="stylesheet" type="text/css" href="./styles.css" />
 --------------------------------------------------------
 pumping further:
 
@@ -63,3 +67,54 @@ pumping further:
   --color-white: #FFFFFF;
 
 }
+------------------------------------------------
+pumping up on the 20-th of may 2024:
+
+@font-face{
+   font-family: InterM
+   src: url('../fonts/inter-bold.ttf');
+}
+@font-face {
+   font-family: InterM;
+   src: url('../fonts/inter-bold.ttf');
+}
+@font-face {
+   font-family: InterM;
+   src: url('../fonts/inter-bold.ttf');
+}
+@font-face {
+   font-family: InterM;
+   src: url('../fonts/inter-bold.ttf');
+}
+@font-face {
+   font-family: InterM;
+   src: url('../fonts/inter-bold.ttf');
+}
+
+----------------------------------------------------
+<button class="primary-button">button1 </button>
+(css)
+.primary-button {
+   font-family: var(--font-family-b);
+}
+------
+<button class="primary-button">button2</button>
+.primary-button {
+   font-family: var(--font-family-b);
+}
+---------------
+<button class="primary-button">button3</button>
+.primary-button {
+   font-family: var(--font-family-b);
+}
+----------------
+<button class="primary-button">button4</button>
+.primary-button {
+   font-family: var(--font-family-b);
+}
+--------------
+<button class="primary-button">button5</button>
+.primary-button {
+   font-family: var(--font-family-b);
+}
+---------------------------------------------------------------
